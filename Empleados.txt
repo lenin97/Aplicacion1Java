@@ -1,0 +1,8 @@
+PR002#nombres1#apellidos1#2000#arquitecto#diseño#2500
+PR003#nombres2#apellidos2#2010#albañil#diseño#500
+PR006#nombres5#apellidos5#2016#ing.mecatronico#robotica#8500
+PR004#nombres3#apellidos3#2011#ing.electronico#investigacion y desarrollo#2500
+PR001#nombres11#apellidos11#2012#maquinista#mantenimiento#2300
+PR007#Juan Carlos#Mendez Soto#2015#contador#Administración#2500
+PR008#Luis Marco#Flores Mendoza#2010#asistente contable#Administración#23600
+PR009#liz#naupa#2013#ing.civil#diseño#2300

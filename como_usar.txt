@@ -1,0 +1,15 @@
+----------------------------------------------------
+Para ver la lista actualizada de empleados seleccionar el menú "Empleados" y 
+seleccionar el item "Lista de Empleados". Ahí se va ver la lista actual y 
+también se podrá actualizar la lista cuando
+se haga algún CRUD. Siempre, luego de hacer un CRUD se debe actualizar
+ la lista para ver los cambios.
+ ------------------------------------------------
+Para hacer algún CRUD se debe ir al menú "Acciones" e ir a alguno de los tres 
+items "Añadir Empleado", "Eliminar Empleado" o "Actualizar Empleado".
+Luego de hacer un CRUD se debe actualizar la lista de empleados que 
+esta en otra ventana para ver los cambios.
+---------------------------------------------
+Para buscar ir al menú "Buscar" y seleccionar algunos de los
+ items "Por Cargo", "Por Area" o "Por Fecha". 
+ Ahí si se va ver las busquedas en la misma ventana.
